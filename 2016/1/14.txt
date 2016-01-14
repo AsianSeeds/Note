@@ -1,5 +1,6 @@
 1.我相信塑造一个human主观因素很重要，客观因素也很重要
 决定我的10000个客观因素之：
-a.the very 记忆力，fast and stable
+1.the very 记忆力，fast and stable
+2.多核处理
 
 @2016/1/14
